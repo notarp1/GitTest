@@ -4,8 +4,8 @@ public class GitTestHer {
 
         System.out.println("Denne");
         System.out.println("Test");
-        System.out.println("test");
-        System.out.println("Virker ");
+        System.out.println("Virker");
+        System.out.println("Måske?");
 
     }
 
