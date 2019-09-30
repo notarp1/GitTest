@@ -1,7 +1,7 @@
 public class MyndighedsTjekker{
 
     public static void main (String[] args){
-
+//tilføjer dette tekst
         int alder;
 
         java.util.Scanner brugerinput = new java.util.Scanner(System.in);
