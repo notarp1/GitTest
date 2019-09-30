@@ -4,6 +4,7 @@ public class GitTestHer {
 
         System.out.println("virk");
 
+        System.out.printf("new ");
 
     }
 
