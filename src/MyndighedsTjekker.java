@@ -12,7 +12,7 @@ public class MyndighedsTjekker{
 
             System.out.println("Du er ikke myndig!");
 
-        }
+        } //hej
 
         if (alder > 18) {
 
