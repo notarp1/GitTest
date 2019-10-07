@@ -21,7 +21,7 @@ public class MyndighedsTjekker{
             System.out.println("Linje Yeah!");
             System.out.println("ny linje");
 
-
+            //comment
             System.out.println("Du er myndig!");
 
         }
