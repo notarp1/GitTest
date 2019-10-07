@@ -10,6 +10,8 @@ public class Regnemaskine {
         
         System.out.println("Dit resultat er ikke");
 
+
+
         int resultat = a - b;
 
         System.out.println(resultat);
