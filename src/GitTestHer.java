@@ -6,6 +6,9 @@ public class GitTestHer {
         System.out.println("Test");
         System.out.println("Virker");
         System.out.println("Måske?");
+        //test
+
+        //
 
     }
 
