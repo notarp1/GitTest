@@ -1,3 +1,5 @@
+import java.sql.SQLOutput;
+
 public class MyndighedsTjekker{
 
     public static void main (String[] args){
