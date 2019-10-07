@@ -8,7 +8,7 @@ public class Regnemaskine {
         System.out.println("Indtast tal nummer 2");
         int b = scan.nextInt();
         int resultat = a - b;
-        System.out.println("Dit resultat er");
+        System.out.println("Dit resultat er ikke");
         System.out.println(resultat);
 
     }
