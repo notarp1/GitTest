@@ -12,6 +12,7 @@ public class Regnemaskine {
 
 
 
+        //Konflikt test
         int resultat = a - b;
 
         System.out.println(resultat);
