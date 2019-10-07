@@ -8,7 +8,7 @@ public class MyndighedsTjekker{
 
         alder = brugerinput.nextInt();
 
-        if (alder > 18) {
+        if (alder < 18) {
 
             System.out.println("Du er ikke myndig!");
 
