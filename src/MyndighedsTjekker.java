@@ -1,3 +1,5 @@
+import java.sql.SQLOutput;
+
 public class MyndighedsTjekker{
 
     public static void main (String[] args){
@@ -17,6 +19,7 @@ public class MyndighedsTjekker{
         if (alder > 18) {
 
             System.out.println("Linje Yeah!");
+            System.out.println("ny linje");
 
             System.out.println("Du er myndig!");
 
