@@ -10,6 +10,9 @@ public class Regnemaskine {
         
         System.out.println("Dit resultat er ikke");
 
+
+
+        //Konflikt test
         int resultat = a - b;
         //minus
         System.out.println(resultat);
