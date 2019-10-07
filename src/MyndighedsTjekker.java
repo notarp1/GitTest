@@ -25,6 +25,7 @@ public class MyndighedsTjekker{
             System.out.println("Du er myndig!");
 
             //some changes
+            // some changes BugFixes
 
         }
 
