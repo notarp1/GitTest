@@ -16,8 +16,6 @@ public class MyndighedsTjekker{
 
         if (alder > 18) {
 
-            System.out.println("Linje Yeah!");
-
             System.out.println("Du er myndig!");
 
         }
