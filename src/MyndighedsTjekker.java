@@ -4,7 +4,7 @@ public class MyndighedsTjekker{
 
     public static void main (String[] args){
 //tilføjer dette tekst
-        int alder;
+        double alder;
 
         java.util.Scanner brugerinput = new java.util.Scanner(System.in);
 
@@ -18,13 +18,13 @@ public class MyndighedsTjekker{
 
         if (alder > 18) {
 
-            System.out.println("Linje Yeah!");
-            System.out.println("ny linje");
 
-            //comment
             System.out.println("Du er myndig!");
 
+
         }
+
+
 
 
     }
